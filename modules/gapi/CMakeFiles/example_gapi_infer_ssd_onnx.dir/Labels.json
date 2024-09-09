@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/rushilpatel/Downloads/opencv-4.10.0/modules/gapi/samples/infer_ssd_onnx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_gapi",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_gapi",
+			"Sample"
+		],
+		"name" : "example_gapi_infer_ssd_onnx"
+	}
+}
